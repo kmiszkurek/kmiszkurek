@@ -56,16 +56,3 @@
 </p>
 
 ---
-
-## 🖼️ Banner (coming soon)
-
-> I'm working on a dark-themed banner with blue highlights 💙  
-> *(stay tuned!)*
-
----
-
-<!-- optional badges or quotes below -->
-
-<!--
-⭐ Fun fact: I once debugged a bug that turned out to be a typo. Twice.
--->
