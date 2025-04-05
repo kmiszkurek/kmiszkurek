@@ -4,7 +4,7 @@
 ---
 
 ## 👤 About Me
-- I'm searching for experience in as a web developer
+- I'm searching for experience as a web developer
 - 👩‍🚀 I'm beginner fullstack web developer 
 - 💻 I enjoy building fullstack applications using modern web technologies
 - 🎯 Focused on clean code, performance and great UI/UX  
